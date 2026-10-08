@@ -1,0 +1,15 @@
+# Dataset and large binaries - fetch/share separately, don't commit
+Images/
+*.zip
+*.h5
+*.pkl
+
+# Nix / pip local packages
+.pip_packages/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
