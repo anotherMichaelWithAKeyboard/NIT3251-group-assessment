@@ -1,0 +1,14 @@
+tensorflow==2.20.0
+numpy==2.4.2
+scikit-learn==1.8.0
+pandas==2.3.3
+xgboost==3.0.5
+nltk==3.9.2
+pillow==12.1.0
+pydot==4.0.1
+matplotlib
+seaborn
+tqdm
+jupyter
+notebook
+ipykernel
