@@ -1,8 +1,7 @@
-# Dataset and large binaries - fetch/share separately, don't commit
+# Dataset - fetch separately, don't commit (8091 files)
 Images/
 *.zip
 *.h5
-*.pkl
 
 # Nix / pip local packages
 .pip_packages/
@@ -13,3 +12,30 @@ Images/
 # Python
 __pycache__/
 *.pyc
+
+# Local virtualenv (Windows/pip)
+.venv/
+
+# The trained model and cached features ARE committed, so a fresh clone can skip
+# the ~1 hour training run and the ~8 minute feature extraction pass:
+#   best_model.keras   trained captioning model
+#   tokenizer.pkl      word index - must match the model, don't regenerate on its own
+#   features.pkl.gz    VGG16 features, gzipped
+#
+# features.pkl itself is ignored: at 127 MB it is over GitHub's 100 MB per-file
+# hard limit, so the gzipped copy (~48 MB) is what gets committed.
+features.pkl
+
+# Smoke-test output from draft.ipynb FAST_DEV runs - not real results
+model.keras
+history.csv
+bleu_results.csv
+loss_curve.png
+decoder_comparison.png
+error_analysis.png
+caption_examples.png
+model.png
+
+# Local planning notes, kept off the shared branch
+PLAN.md
+CHANGES.md
