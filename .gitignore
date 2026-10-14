@@ -39,3 +39,6 @@ model.png
 # Local planning notes, kept off the shared branch
 PLAN.md
 CHANGES.md
+*.gz
+*.gz
+features.pkl.gz
