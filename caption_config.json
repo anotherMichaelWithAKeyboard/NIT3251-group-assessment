@@ -1,0 +1,6 @@
+{
+  "vocab_size": 7669,
+  "max_length": 38,
+  "cnn_model": "VGG16",
+  "random_seed": 42
+}

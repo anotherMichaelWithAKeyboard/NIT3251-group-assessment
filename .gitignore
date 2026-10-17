@@ -42,3 +42,6 @@ CHANGES.md
 *.gz
 *.gz
 features.pkl.gz
+
+# Personal backup notebook
+image_captioning_backup.ipynb
