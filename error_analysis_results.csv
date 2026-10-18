@@ -1,0 +1,811 @@
+image_id,generated,bleu4,generated_length,mean_reference_length
+2198964806_c57b0534d3,a brown dog is running with a ball in its mouth,0.17546614185726273,11,11.6
+2756636539_cc1eacbf4a,a black dog is running through the water,0.9457416090031758,8,9.4
+3470303255_fbb41b8dd0,a woman in a red hat and a hat and a hat in a red hat and a hat,0.027076576267554473,19,8.0
+2269795781_46a296aa21,a tennis player in a white shirt is hitting a tennis tennis racket,0.12035005811198446,13,10.4
+3002920707_5d2e6e6aac,a group of children are playing in a wooden building,0.1242188995129533,10,11.2
+1096097967_ac305887b4,a black and white dog is standing in a stream,0.5814307369682193,10,11.8
+3391924827_53b31542ce,a man is jumping off a cliff,0.043472087194499145,7,10.4
+3517124784_4b4eb62a7a,a man in a black shirt is kicking a ball,0.05873949094699214,10,14.6
+1177994172_10d143cb8d,a man in a black jacket is standing on a street,0.04411629359322707,11,10.4
+2061354254_faa5bd294b,a boy in a blue shirt is playing cricket,0.06030725360407769,9,10.6
+3747543364_bf5b548527,two children are playing in the sand,0.07730551756939454,7,7.8
+400562847_e15aba0aac,two dogs are playing in the water,0.0605543865104477,7,10.8
+2855417531_521bf47b50,a man in a black shirt is jumping over a tree,0.04576989215762564,11,9.6
+942399470_6132d3e5d2,a man in a blue jacket is sitting on a horse,0.2790159393585827,11,12.2
+2609847254_0ec40c1cce,a man in a black shirt and a white shirt and a woman in a black jacket and a man in a black jacket,0.0261908774339841,24,10.4
+3534952095_975cca0056,a motorcycle car rides a motorcycle,0.10266900960803409,6,10.4
+2622517932_57c52c376f,a young boy is sitting on a bench,0.13784336590962212,8,12.4
+2095444126_201ff9f222,a dog is running in the grass,0.17567205239427922,7,6.6
+3336361161_c06cdd160e,a brown and white dog is playing with a tennis ball in its mouth,0.03975360176263952,14,9.0
+95734035_84732a92c1,a man in a red jacket is standing on a snowy mountain,0.09578464408619825,12,12.8
+3613027188_1645ca1976,a soccer player in a red uniform is kicking a soccer ball,0.024088562704853513,12,10.4
+3332202255_a30c522664,a man in a black shirt and a white guitar and a guitar,0.11685792587573332,13,9.8
+3420260768_26a600b844,a tennis player is hitting a tennis tennis tennis tennis tennis tennis tennis,0.07651311935534327,13,9.4
+3396817186_b299ee0531,a dog runs through the grass,0.03849815007763549,6,12.4
+2404520067_87798dbaee,a black dog is running through a grassy field,0.7506238537503395,9,8.6
+3446762868_06e9d9d899,a man in a black shirt is riding a skateboard on a trampoline,0.023233421968350106,13,8.6
+2443380641_7b38d18f5b,a man in a red shirt and a white and white hat and a woman in a red shirt and a white and white dog and a man in a red shirt,0.01687589360987099,32,11.6
+1952896009_cee8147c90,a man in a white dress and a black and white dress is walking down a sidewalk,0.08401016569357084,17,17.4
+1584315962_5b0b45d02d,a group of people in winter gear are standing in the snow,0.10025157431478134,12,14.0
+2066241589_b80e9f676c,a brown dog is shaking off a stick,0.4111336169005197,8,9.6
+3442844140_15aa45e9b8,a man in a blue shirt is climbing a large pool,0.04328649145305472,11,10.8
+337647771_3b819feaba,a dog is eating a toy,0.04905406857740215,6,11.6
+3503011427_a4ee547c77,a man in a blue jacket is standing on a bench,0.2737678098181288,11,14.4
+2518219912_f47214aa16,a man is standing next to a white dog,0.047821978359283986,9,16.4
+1932161768_996eadac87,a white dog is climbing a rock,0.21515344521672802,7,9.0
+979383193_0a542a059d,two children are sitting on a bench,0.043472087194499145,7,9.6
+693785581_68bec8312a,a young boy in a pink outfit is playing in a karate mat,0.10120193244194395,13,10.4
+3701509233_a2275a4e57,a man stands on a rocky shore,0.039281465090051315,7,10.8
+3248408149_41a8dd90d3,a dog runs through the grass,0.05372849659117709,6,11.8
+3131107810_7e9b96cddc,a boy in a blue shirt and a blue shirt and a boy in a blue shirt and a boy in a blue shirt and a boy in a blue shirt,0.03392268780792677,31,9.4
+3527926597_45af299eee,a young boy wearing a black shirt is riding a skateboard,0.19729406277958836,11,7.6
+2332540384_4cf26406a9,a skateboarder is skateboarding on a skate wall,0.09720654209069822,8,9.4
+3154709407_9b0778cbeb,a basketball player in a white uniform is kicking a basketball,0.06238986072117501,11,7.6
+281754914_bc8119a0ed,a girl in a green shirt is walking down a tree,0.05012578715739066,11,10.2
+3329793486_afc16663cc,a skier is climbing a snowy hill,0.10445522730720382,7,7.8
+3178599352_c57fdebcd2,a woman in a red shirt is sitting on a couch,0.44116293593227063,11,11.8
+3086523890_fd9394af8b,two dogs are playing with a ball,0.1155987114790698,7,12.4
+2497074804_b4f3e7fd90,a man in a blue jacket and a green jacket and a green jacket and a green jacket and a green jacket and a green pattern and a green pattern and a green pattern and a green pattern,0.06977877744524465,38,11.2
+3677734351_63d60844cb,a man in a blue jacket is walking down a paved road,0.11530568323789493,12,13.0
+697582336_601462e052,a brown dog is running in the grass,0.20205155046766235,8,9.8
+3595643050_d312e4b652,a dog jumps to catch a tennis ball,0.07386099955930606,8,10.6
+3741827382_71e93298d0,a man in a blue shirt is jumping into the water,0.07972714256536027,11,11.0
+1225443522_1633e7121f,a man in a green shirt is standing in a city street,0.05637560315259291,12,10.0
+2702506716_17a7fb3ba4,a brown and white dog is jumping over a wooden ramp,0.024808415001701823,11,8.4
+2641288004_30ce961211,a black and white dog is jumping over a wooden couch,0.2998221389342337,11,11.6
+1449692616_60507875fb,a man with a camera,0.23394743548827707,5,9.6
+2289212650_69de7a20b2,a black and white dog runs in the water,0.1623339577375495,9,10.2
+2939371251_f923569a72,a group of men in red uniforms and white uniforms are playing soccer,0.02251651762083095,13,7.6
+1798209205_77dbf525b0,a man is sitting at a table in a restaurant,0.14287202148494,10,10.6
+1527297882_dededc7891,a man in a red hat and a red hat and a red hat and a red hat,0.03715770152515524,18,13.2
+95783195_e1ba3f57ca,a man in a black jacket is standing on a rock covered hill,0.04131551591106297,13,11.2
+1131800850_89c7ffd477,a dog is running through the water,0.15447878876032708,7,10.2
+3131160589_dc73c209b7,a young boy climbs a red climbing,0.07849573146438121,7,11.6
+1389264266_8170bc1c54,a man in a black jacket is walking down a sidewalk,0.04546012039207043,11,14.0
+2504277798_936a09c74d,a man in a blue jacket is standing in a doorway,0.02818780157629645,11,10.2
+3108732084_565b423162,a snowboarder is flying down a snowy hill,0.07751502105431508,8,8.4
+2340919359_f56787d307,a dog is running in the grass,0.20829441121808998,7,11.4
+2480832276_fa55480ecb,a man is climbing a rock climbing,0.10020996822080325,7,10.6
+1454841725_4b6e6199e2,a group of children are playing in a park,0.14923729480049117,9,10.0
+397601572_9587a39291,a man in a black shirt and sunglasses is standing in a bus,0.018476860420522198,13,12.0
+3025334206_76888792e5,a dog jumps over a grassy hill,0.07730551756939454,7,9.4
+3264678536_46601d25f0,a black and black dog is running in the grass,0.07259795291154773,10,12.6
+2212472643_80238475b5,a little boy is sitting on a bench,0.09193227152249185,8,8.2
+1526325728_74eb4153d8,a brown dog is running in the sand,0.21924558812529682,8,9.8
+181777261_84c48b31cb,a man in a blue shirt and a black and white boat on the beach,0.0783092238402761,15,10.2
+3495490064_8db40a83af,a man in a blue jacket and a boy and a boy in a blue jacket and a boy in a blue jacket and a boy in a blue jacket,0.021479380274235616,30,13.0
+3309578722_1765d7d1af,a person in a yellow shirt is riding a trick in a fountain,0.04131551591106297,13,12.8
+1562392511_522a26063b,a black dog is standing on a red toy,0.07171781507224269,9,13.2
+2818735880_68b3dfe1f5,two people are riding a horse in a grassy field,0.06985342056580097,10,9.8
+2339946012_06bd480ab8,a man is swimming in the water,0.6434588841607617,7,7.8
+967719295_3257695095,a dog is standing in a lake,0.09878765474230743,7,10.4
+3293018193_e4e0c8db7c,a man in a blue shirt is riding a shopping cart,0.052463410228614595,11,15.8
+369360998_ba56fb436f,a man in a yellow jacket and a yellow helmet is riding a snowmobile,0.03798229226827674,14,11.0
+453756106_711c20471a,two dogs are playing in the snow,0.10445522730720382,7,10.6
+2328616978_fb21be2b87,a man in a black jacket is standing in front of a building,0.14312114539776283,13,13.4
+527968666_1fcddf81ab,a black dog is swimming in the water,0.24028114141347542,8,11.8
+1655781989_b15ab4cbff,a skier is hiking down a snowy mountain,0.03655552228545124,8,10.0
+1539166395_0cdc0accee,a little boy in a red shirt is playing with a toy,0.07419446627365012,12,15.8
+1663454406_5e2cf8c5bb,a man in a white jacket is standing in the middle of a building,0.12060275498773784,14,13.8
+3666537170_c4ecda4be8,a young boy is swimming in the water,0.1514090621997985,8,13.2
+3544673666_ffc7483c96,a black dog is jumping over a black and black dog,0.024808415001701823,11,11.4
+3345025842_bc2082a509,a small child is jumping over a small white dog,0.025132936350227657,10,16.8
+3472449219_eb927f05b8,a man in a blue shirt is riding a dirt bike,0.34786351577524227,11,11.4
+3242007318_01e82171aa,a man in a blue jacket and a man in a blue jacket and a man in a blue jacket and a man in a blue jacket and a man in a blue jacket and a man in,0.006414921514603761,38,10.6
+3472066410_065b4f99d3,a man in a black shirt is riding a skateboard,0.05307712171072445,10,9.2
+2337809114_899ba61330,two girls are playing in a glass,0.08307018474412793,7,10.4
+3339586622_a7676b30e1,a man in a black shirt and a helmet is riding a bike,0.056910028801226954,13,12.0
+2946016853_ceca4f5a07,a dog is running with a red ball,0.12434558650623244,8,13.6
+3036033157_522a43a550,a black and white dog is jumping over a black and white dog,0.4089601472043678,13,12.8
+3565598162_56044bc2f7,a man in a black jacket is standing on a city street,0.0428361950754725,12,13.2
+3767841911_6678052eb6,a girl in a red shirt is playing with a red toy,0.05637560315259291,12,14.2
+3674521435_89ff681074,a group of people are standing on a beach,0.06376715693797415,9,10.2
+860928274_744d14f198,a boy in a red shirt is playing with a red ball,0.05637560315259291,12,10.8
+2882483779_73c171ac19,a dog is standing on a table,0.12098967350244397,7,11.6
+3036596725_541bbe0955,a dog is running through a track,0.06908501454998436,7,11.2
+1403414927_5f80281505,a dog runs down a path,0.07778610913323007,6,11.4
+3682428916_69ce66d375,a man is pulling a red and white car,0.03034691922392704,9,9.2
+452419961_6d42ab7000,a man in a blue shirt is standing on a wooden bench,0.03602080288207364,12,7.2
+514222303_cb98584536,a boy in a blue shirt and blue shorts is running in the grass,0.05790013965447369,14,11.8
+2061144717_5b3a1864f0,a boy is jumping down a wooden fountain,0.057367534172156044,8,12.6
+2903617548_d3e38d7f88,a young boy is jumping into a puddle,0.06985342056580097,8,10.0
+3125158798_0743dae56e,a man in a black jacket and black shorts is standing on a sidewalk,0.05231868220107226,14,11.2
+3707283973_5cdaa39340,a group of people are walking down a path,0.16784459625186196,9,11.8
+2419221084_01a14176b4,a white and white dog is running through the leaves,0.0726972096174592,10,9.4
+2876494009_9f96d7eaf2,a man is rowing a boat in the water,0.06376715693797415,9,7.6
+3019857541_3de3e24f54,a black dog is standing in a pile of a wooden room,0.05637560315259291,12,10.8
+2412390588_a89cab30f4,a group of people stand in a field of a red tent,0.05094110796339642,12,11.2
+3618932839_acd7d2c2ea,a black and black dog jumps over a fence,0.43167001068522526,9,11.4
+3656225270_cdf89e3240,a young boy swinging a rope on a swing,0.14113991930789777,9,12.0
+2550109269_bc4262bd27,a brown and white dog is playing with a toy,0.09438595268231116,10,13.4
+3150315970_8f045c41a4,a little boy in a blue shirt is sitting on a wooden slide,0.039073802494525016,13,13.6
+325005410_e1ff5041b5,a group of people in black and black and black and black and black and white and white and white are gathered at a crowd,0.13471766853689124,25,9.8
+3476451861_5b9c9ce191,a man in a yellow shirt is riding a bike in a forest,0.2224246939793677,13,11.4
+482088914_e6ea4501e9,a man in a blue shirt is riding a raft in the water,0.10874855364455038,13,6.6
+2102732029_9ae520914d,a man in a white shirt and a woman in a white shirt and a woman in a white shirt and a woman in a white shirt,0.009186672262412125,27,8.8
+520491467_54cbc0a866,a man in a black shirt is jumping over a wooden wall,0.02343404092837612,12,9.8
+3582066525_e9d6377f56,a man is climbing a rock cliff,0.18651176671349295,7,11.0
+961611340_251081fcb8,a young boy in a pink shirt is jumping into a fountain,0.17827531042796255,12,13.8
+358875403_f357f03713,a black and white dog is swimming in the water,0.1186840521952098,10,9.4
+3474999131_788cbf253f,a dog jumps over a hurdle,0.21506254256566312,6,8.4
+2452686995_621878f561,a black and white dog is running down a path,0.09189798020039786,10,11.8
+425088533_a460dc4617,a boy wearing a red jacket is standing on a rock,0.052463410228614595,11,10.4
+3229913073_e7857a5966,a boy in a blue shirt is jumping over a small boy in a blue shirt,0.08609583710384033,16,10.0
+136639119_6040b00946,a climber is climbing a rock face,0.1944130841813964,7,8.4
+336551609_1385ab139e,a skier is walking down a snowy hill,0.1409020089952245,8,11.4
+2314722788_6262c3aa40,two dogs are playing in the grass,0.20556680845025987,7,10.8
+1248357227_2b4175fc39,a man is crossing a tree in a river,0.05022037190492093,9,12.0
+2193980605_4221c6474d,a man in a black shirt is jumping on a beach,0.04790437745835816,11,13.0
+613900608_2e49415772,a man in a red shirt and a black shirt and a black shirt and a black and white shirt and a man in a red shirt and a black shirt and a black and white shirt,0.013948420003997713,37,13.0
+3446347599_0ecc49a9d5,a man stands on a rocky hill,0.0670144447096575,7,9.8
+380527679_574749123d,a group of people are standing in a market,0.6917601652777826,9,10.2
+3240351042_5d29c94b0e,a man in a black shirt is jumping off a ramp,0.05637560315259291,11,13.2
+2877159456_ea4a46b0d2,a man in a blue jacket rides a bicycle,0.05396530161402381,9,11.0
+2942133798_e57c862a90,a brown and brown dog is running in the grass,0.17591223312310236,10,12.8
+3434452829_62cee280bc,a boy in a blue shirt is playing with a man in a blue shirt,0.030119166060089728,15,10.8
+3009018821_ba47396e24,a boy in a swimming pool is jumping into a pool,0.269855346668251,11,12.6
+3242718240_3358f2d6e6,a group of people in formal clothes are standing in a group of a group of people,0.11203754340102182,17,10.6
+366548880_3d3e914746,a dog is jumping over a large large dog,0.03155984539112946,9,10.2
+3168123064_d1983b8f92,a man in a black wetsuit is surfing in the snow,0.6989307622784944,11,8.8
+2456907314_49bc4591c4,a man in a red shirt and a black and white boat on a wooden bridge,0.046825687910244024,16,12.4
+78984436_ad96eaa802,a german shepherd is running in the woods,0.18092176081223305,8,13.0
+3535879138_9281dc83d5,a group of people are watching a group of people are watching a group of people,0.1760928267911618,16,11.6
+496555371_3e1ee0d97d,two dogs are playing in the sand,0.07614310991217832,7,11.4
+1324816249_86600a6759,a dog is running through the woods,0.08783602619713961,7,13.0
+3474265683_43b1033d94,a group of people are posing for a picture,0.10798033448421628,9,14.2
+3517362674_0f5296de19,a young boy in a blue shirt is blowing a small girl in a field,0.09615094003919297,15,9.2
+3711664623_ef87105ea7,a group of people are sitting on a rocky ledge,0.05307712171072445,10,12.0
+2355819665_39021ff642,a man in a black and black helmet rides a unicycle,0.07419446627365012,11,10.8
+3351493005_6e5030f596,a group of people dressed in red and white outfits and black and white and white and white and white and white and white and white and white and white and white flags,0.07781062585666583,33,9.0
+3751594676_edfbfa0688,a small boy wearing a blue shirt and a blue shirt is holding a toy,0.1250076305588977,15,12.2
+2270483627_16fe41b063,a dog is splashing through a stream,0.39442436483275556,7,9.4
+3625519177_4c2bb9e7f0,a man is scaling a large large blue cliff,0.06030725360407769,9,10.6
+2949353587_64c54e9589,two dogs are fighting,0.0,4,11.8
+3690159129_93ba49ea18,a man in a black shirt is jumping off a ramp,0.059609942732681,11,10.0
+2760715910_87c7bdeb87,a man in a black shirt and a black shirt and a black and white shirt and a white shirt and a white shirt and a white shirt,0.02123934952630704,28,9.6
+459814265_d48ba48978,a black and white dog is running in the grass,0.14287202148494,10,10.2
+1359101233_16c2c150e3,a dog runs in the grass,0.31024517040537297,6,12.4
+2902844125_4186bf3ab6,a man in a black jacket is snowboarding on a snowboard,0.05452469119630864,11,9.8
+2456030728_d3d147e774,a young boy is sitting on a blue bench,0.07583235673413397,9,10.2
+269986132_91b71e8aaa,a group of people are scrambling for a soccer ball,0.1243887329350145,10,8.8
+3282634762_2650d0088a,a white dog is jumping over a lake,0.07386099955930606,8,7.6
+1159574340_99ba8c3c59,a man in a blue shirt is jumping into the water,0.141777136045218,11,10.8
+403678611_73978faed7,a man in a blue shirt is sitting on a bench,0.40352786374639904,11,12.6
+3585488964_1467945775,a dog is jumping in the water,0.057219818123137735,7,14.6
+3652150541_8fb5a3a5d1,a woman with a mohawk and a woman and a woman in a red shirt,0.08947853200770763,15,11.8
+3223224391_be50bf4f43,a black dog is running in the water,0.06985342056580097,8,7.6
+1514957266_a19827c538,a black dog is running in the grass,0.17286039232097053,8,8.0
+2162564553_96de62c7e6,a man in a bikini is sitting on a rocky ledge,0.1627833136472153,11,13.4
+2516317118_10ae66b87a,a baby is eating a baby,0.02758512992979458,6,11.0
+3425071001_e7c9809ef2,a woman in a white shirt and white shirt is playing tennis,0.024088562704853513,12,9.0
+3485599424_94de8ede51,a white and white dog is jumping over a wooden fence,0.12278260149096115,11,9.8
+2681215810_00b0642f7b,a boy in a blue shirt is jumping over a tree,0.026658376817028855,11,9.6
+2522467011_cc825d89ac,a young boy in a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a yellow shirt and a yellow,0.02741012610241837,38,12.2
+2621771656_09a620da6d,a group of people are watching a group of people in a crowd of a crowd,0.26518122980477765,16,10.6
+2461616306_3ee7ac1b4b,a boy jumps into a pool,0.846481724890614,6,9.6
+3404552106_f516df0f5b,a group of people in formal costumes and a group of people in a parade,0.08947853200770763,15,12.6
+3347701468_bb0001b035,a group of people are playing soccer,0.18575057999133598,7,10.0
+3174726084_c108de0a64,a man in a blue shirt is holding a red cup,0.059609942732681,11,9.6
+3328535573_33c3cd5b59,a group of people are sitting on the beach,0.16784459625186196,9,8.2
+2089350172_dc2cf9fcf6,a black dog swimming in the water,0.21515344521672802,7,10.2
+2505360288_c972bd29c4,a brown dog is playing in a grassy yard,0.06674094719041482,9,12.4
+454709143_9c513f095c,a man in a white jacket is standing in a tree,0.36132844057280267,11,15.8
+493542985_c85ad29ebe,a man in a blue shirt is standing on a dock on a dock,0.05437427682227521,14,9.0
+1745110280_0cbff5e273,a brown dog is running in the woods,0.23119742295813953,8,12.8
+3474985008_0a827cd340,a person in a yellow helmet is riding a mountain,0.17286039232097056,10,12.0
+3035118753_69287079dc,a young boy is eating a baby in a bathroom,0.05873949094699214,10,10.8
+1685990174_09c4fb7df8,a group of people are playing soccer in a grassy field,0.12760671487807074,11,7.2
+1316247213_1d2c726dd5,a boy in a blue shirt is walking down a path,0.052463410228614595,11,11.2
+758921886_55a351dd67,a boy in a blue shirt is climbing a large tree,0.05696822651325549,11,10.8
+3688839836_ba5e4c24fc,a man in a red shirt and a red jacket and a red jacket and a red jacket and a red jacket,0.03307108401836138,22,13.2
+454686980_7517fe0c2e,a man in a black shirt and a black shirt and a black shirt and a man in a black shirt and a black shirt and a man in a black shirt and a black shirt,0.0763342527979876,36,14.4
+3235746553_a40416c00e,a brown dog is running in the sand,0.6147881529512644,8,10.2
+460478198_83039f2593,a dog is running in the water,0.09878765474230743,7,10.0
+2542662402_d781dd7f7c,a small dog is jumping over a red and blue hoop,0.6076795808137692,11,12.6
+1178705300_c224d9a4f1,a dog is jumping over a wooden branch,0.17286039232097053,8,9.2
+3661072592_2e693cd5a0,a little girl in a pink dress is playing with a young girl in a pink shirt,0.08847487574766279,17,12.0
+542317719_ed4dd95dc2,a boy in a blue shirt is playing in a pool,0.33932513407933634,11,9.4
+3571675421_7e07ac07c5,a dog is running through the water,0.668740304976422,7,8.4
+3286222970_1fa445e38f,a man in a blue shirt is sitting on a bench,0.052463410228614595,11,9.4
+1075881101_d55c46bece,a man in a blue shirt is standing in a pool,0.026658376817028855,11,9.2
+3218481970_1fa627b3da,a man in a red shirt is standing in a red jersey,0.04740604259878138,12,9.8
+3041645937_ff7591d134,a man in a white jacket and a white jacket and a white jacket and a white jacket and a white jacket and a white jacket and a white jacket,0.1554434920148101,30,10.4
+374124237_51f62b6937,a man in a black shirt and a woman in a black shirt and a woman in a black shirt and a woman in a room,0.04276438225788649,26,9.8
+241347547_902725b9f8,a group of people in red uniforms and white uniforms,0.1122444464861146,10,10.4
+2259203920_6b93b721ce,a dog is running through the snow,0.039281465090051315,7,9.0
+3442978981_53bf1f45f3,a man in a white shirt is playing with a ball,0.10025157431478134,11,7.4
+1298866571_b4c496b71c,a man in a black shirt and black hair is standing in a room,0.2044800736021839,14,10.6
+3208074567_ac44aeb3f3,a man in a red jacket and red hair is riding a red raft,0.03798229226827674,14,9.0
+3340575518_137ce2695f,a hiker is climbing a cliff overlooking a mountain,0.032087960321332466,9,11.4
+1235580648_7eebaed9bc,a man in a red hat and a hat and a mohawk,0.045293761707938834,12,11.0
+186890601_8a6b0f1769,a man in a blue shirt is jumping into the water,0.2998221389342337,11,11.6
+3649307685_60c1294d2a,a man in a blue shirt is jumping over a tennis ball,0.053863663688318665,12,10.8
+2677656448_6b7e7702af,a dog is jumping through the water,0.1737396135705647,7,10.4
+143552829_72b6ba49d4,a man wearing a red helmet is riding a bike in the woods,0.04785543921093739,13,11.6
+539750844_02a07ec524,a black and white dog is jumping over a frisbee,0.05307712171072445,10,11.4
+2837799692_2f1c50722a,a man in a red jersey is standing on a red jersey,0.020255986027125642,12,7.6
+3155400369_69e3d6d70f,a group of people playing instruments,0.040824829046386304,6,9.0
+3041689520_c481bdb20e,two children are playing in the water,0.2558620078690811,7,9.4
+2753531542_ace2c870b7,a man climbing a rock,0.060713336587447424,5,13.4
+2698487246_e827404cac,a man in a black shirt is jumping over a soccer ball,0.3672056269893592,12,11.6
+3621647714_fc67ab2617,a skier is jumping down a snowy hill,0.1561969968460128,8,10.8
+146577646_9e64b8c2dc,a man in a black kayak is surfing rapids,0.1623339577375495,9,7.8
+2222559267_6fd31e3941,a man in a blue jacket is standing in front of a building,0.23901088824528133,13,14.0
+2107838729_a527e434bd,a boy is standing on a lake,0.10153962347372976,7,13.8
+359082432_c1fd5aa2d6,a dog is jumping over a tree,0.07342005635835175,7,15.2
+697778778_b52090709d,a man in a bikini is climbing a rock wall,0.1242188995129533,10,9.4
+416788726_5b4eb1466e,a man in a black jacket and a black jacket and a white jacket and a woman in a black jacket and a white jacket and a man in a black jacket and a white jacket,0.07103702656973529,36,13.8
+3555231025_73fa54fa29,a young boy in a blue shirt is running in the grass,0.05932493447335567,12,12.8
+1343426964_cde3fb54e8,a young boy in a red shirt is smiling,0.1623339577375495,9,10.8
+3396153660_f729d9f9b9,a woman and a woman are posing for a picture,0.2777619034011791,10,10.2
+206087108_d4557d38ee,a little girl is jumping down a wooden floor,0.03034691922392704,9,14.6
+278002800_3817135105,a man in a red jacket and a woman and a woman in a red jacket and a woman in a blue jacket and a man in a blue jacket,0.0860132510739358,30,11.4
+2991575785_bd4868e215,a man in a black jacket and black jacket and a black jacket and a man in a black jacket and a black jacket,0.022023814946586635,24,11.0
+2773011586_6f4cd41e84,a man in a red shirt is standing on a wooden structure,0.05094110796339642,12,13.0
+254527963_3f5824b0e8,a black dog is running in the snow,0.8408964152537145,8,8.2
+2325258180_6217dd17eb,a black dog and a black dog are fighting,0.1335433989224962,9,12.8
+3488087117_2719647989,a brown and white dog is running in the grass,0.5410822690539396,10,8.4
+424506167_01f365726b,a brown dog is running in the water,0.07751502105431508,8,10.2
+320093980_5388cb3733,a man in a black jacket is standing in the snow,0.059609942732681,11,10.8
+2428275562_4bde2bc5ea,a black and white dog is running through the water,0.5555238068023582,10,8.8
+2220175999_081aa9cce8,a dog is wading in the water,0.20556680845025987,7,6.8
+2268729848_d418451226,a man in a black jacket is standing on a street,0.06121634328045705,11,10.0
+2403544744_cba152f5c1,two dogs are playing in a grassy field,0.06985342056580097,8,8.6
+3264650118_be7df266e7,a skier is skiing down a snowy hill,0.06985342056580097,8,9.4
+2422018883_336519b5c6,a young boy in a blue shirt is walking on the street,0.06484115071397648,12,10.6
+3550763985_800cfee7e4,a young boy is jumping off a wall,0.039281465090051315,8,13.2
+3672940355_47f30e2b28,a young boy is playing cricket with a soccer ball,0.04802616576551228,10,8.4
+2968135512_51fbb56e3e,a skateboarder is jumping off a ramp,0.15228621982435664,7,11.8
+3106340185_80d0cb770a,a man in a black dress is standing in front of a building,0.04324227075463215,13,9.6
+3230101918_7d81cb0fc8,a man in a red shirt is standing on a bench,0.10600313379512592,11,11.6
+2672588619_3849930e99,a boy in a blue shirt is walking down a lake,0.04740604259878138,11,11.8
+97731718_eb7ba71fd3,a man in a black and black and black and black and black and black and black and black and black dogs are riding a track,0.019320990745681776,26,11.0
+278608022_4175813019,a soccer player kicks a soccer ball,0.17567205239427922,7,9.6
+2603792708_18a97bac97,a man stands on a beach,0.03849815007763549,6,10.4
+2863180332_372510aa49,a man rides a bike on a road,0.13784336590962212,8,10.0
+2911245290_b2c79f328a,a boy in a blue shirt is splashing in a pool,0.12278260149096115,11,12.6
+3640241166_b1ab7a8e7a,a man in a black shirt is sitting on a tire bench,0.05859059370151704,12,11.6
+2744600462_5804577296,a group of people are riding a race,0.05752300429522425,8,11.0
+1425919702_ddb761aeec,a group of people are standing in front of a crowd of people,0.6010805618756577,13,12.0
+2880051254_e0ca96b6be,a black and white dog is running in the grass,0.5035337887555859,10,8.0
+426191845_1e979e9345,a dog is jumping over a rocky hill,0.1561969968460128,8,9.4
+654130822_4aeb1f1273,a young girl in a bikini and a woman in a bikini and a woman in a bikini,0.15464260451973763,18,11.6
+3584406900_039f30b34c,a young girl is swinging on a swing,0.1561969968460128,8,11.8
+489773343_a8aecf7db3,two dogs are playing in the water,0.02649162663301605,7,18.4
+255330891_86d65dfdbf,a boy in a red shirt is walking down a sidewalk,0.06238986072117501,11,15.0
+310728631_155c3bbeea,a skateboarder is jumping off a fountain,0.019229913610012243,7,15.6
+2229179070_dc8ea8582e,a dog jumps over a dog,0.1837868600016897,6,10.0
+2984174290_a915748d77,a man in a wetsuit is riding a wave,0.0693631908381303,9,9.2
+3587009091_37188fd07e,a black and white dog is swimming in the water,0.14287202148494,10,9.2
+3018304737_0a46fc5f1d,a surfer is surfing in the ocean,0.10445522730720382,7,7.8
+3342272425_804316cb3d,a man in a red jacket and a yellow jacket and a yellow jacket and a yellow jacket and a yellow jacket and a yellow jacket and a yellow jacket,0.017379110740253053,30,13.2
+195962284_e57178054a,a man in a yellow jacket is walking through a lake,0.04740604259878138,11,8.2
+3184031654_34b5c4ffe1,a woman in a red jacket and a woman in a red jacket and a woman in a red jacket,0.13264759167412227,20,10.8
+3273091032_98f724b36b,a dog runs through the grass,0.06846046760764757,6,10.4
+1418019748_51c7d59c11,a man in a black hat and a black hat and a black hat and a woman in a black shirt and a black hat,0.12409597120849801,25,12.6
+1129704496_4a61441f2c,a dog swimming in the water,0.07830277146770757,6,11.6
+495055747_a75872762a,a man in a blue jacket and a black jacket and a woman in a blue jacket and a woman in a blue jacket and a blue jacket and a man in a blue jacket and a blue,0.030827693272137056,38,10.4
+512101751_05a6d93e19,a white dog is running through the grass,0.5131108244419322,8,11.6
+3497234632_6ec740fc1e,a group of people are watching a group of people in a room,0.0768968397262906,13,10.4
+2856080862_95d793fa9d,a group of people are playing soccer,0.23119742295813958,7,9.4
+3029472296_d429b1586c,a skateboarder in a red shirt is skating on a skateboard,0.026658376817028855,11,12.6
+2557972410_6925fe695c,a man in a red shirt and a black and white shirt is riding a bike,0.01618861356572822,16,7.6
+701816897_221bbe761a,a young boy in a blue bathing suit is jumping into a pool,0.1825825149732829,13,13.2
+3438858409_136345fa07,a man in a blue shirt is jumping over a fence,0.05012578715739066,11,12.4
+3130064588_6d1d3fa2dd,a man and a woman are standing on the beach,0.056122223243057295,10,10.6
+2437266971_b91a8f9a00,a man in a black jacket and a hat and a man in a black jacket and a man in a black jacket and a man in a black jacket and a man and a man in a,0.07498217612206666,38,13.4
+522486784_978021d537,a black dog and a brown dog are playing in the grass,0.5900468726392808,12,9.4
+3538021517_b930dc76fc,a group of boys are playing soccer in a field,0.15895464630951742,10,10.2
+2204550058_2707d92338,a man and a woman are smiling,0.07201170728284921,7,10.2
+224273695_0b517bd0eb,a snowboarder is standing in the snow,0.08307018474412793,7,8.4
+3374384485_751f719be4,a man is jumping off a wooden fence,0.17830986745012709,8,13.2
+3084034954_fe5737197d,a group of people dressed in a room and a woman in a costume,0.04913270548144422,14,12.6
+1429723917_6af585e4c0,a man in a red jacket is standing on a large glass,0.119219885465362,12,16.8
+339350939_6643bfb270,a dog is running along the beach,0.8668778997501817,7,10.4
+191003287_2915c11d8e,a man and a woman sit on a bench,0.07936880926086218,9,14.6
+2685752892_9d5cd7f274,a man in a blue shirt is riding a bike trick on a bike,0.16261701715194893,14,16.4
+2610447973_89227ff978,a man breathes fire at night,0.10266900960803409,6,8.4
+3351667846_ac43118ae5,a man in a black robe and a woman and a woman in a room,0.03288164697569687,15,11.8
+3562282690_cd2a95fe9e,a dog is running in the sand,0.10488327405725884,7,11.6
+3038941104_17ee91fc03,a man in a black shirt is performing a handstand in a red and white shirt,0.0342347495586902,16,9.2
+2698614194_b4e6e11dff,a soccer player in a red uniform is kicking a soccer ball,0.020390528108540116,12,11.8
+3208032657_27b9d6c4f3,a skateboarder is jumping off a ramp,0.034052233956373766,7,9.8
+3530502404_f8c3a3f61c,a man in a black and black jacket is riding a bike,0.27091988546756285,12,12.8
+2088460083_42ee8a595a,a man in a blue and black firetruck is parked in the evening,0.04131551591106297,13,11.8
+3189002057_3ef61b803e,a man in a bikini stands on the beach,0.13977121394614234,9,11.2
+2565350330_c7f305e7f7,a man in a red sweater is sitting on a bench,0.06484115071397648,11,12.4
+410422753_de506155fa,a dog runs through the snow,1.0,6,8.6
+2551344688_17a12a6948,a man in a blue shirt and a hat and a hat in a blue shirt and a hat,0.041652469525716676,19,14.6
+2978409165_acc4f29a40,a man in a wetsuit is surfing in the water,0.345720784641941,10,9.6
+3177298173_78cea31d64,a young boy in a red shirt is playing with a ball,0.37700638045494705,12,10.4
+762947607_2001ee4c72,a boy in a red shirt is running through the grass,0.37817904276524744,11,12.2
+264141937_585320617a,a man in a black shirt is standing on a bench in front of a building,0.016989490108105212,16,14.4
+862187579_9faf4a51e0,a man in a black jacket and a red jacket and a red jacket and a red shirt and a red shirt and a red shirt,0.021729983079834318,26,10.8
+2902486045_6298eb22ef,a dog and a dog are playing in the water,0.02777619034011792,10,8.0
+523692399_d2e261a302,a man in a red shirt is riding a rock,0.05943817665919135,10,11.4
+477254932_56b48d775d,a boy in a pool and a boy in a pool,0.052463410228614595,11,11.6
+2714220101_c31db50b10,a white dog runs along the grass,0.4347208719449914,7,7.2
+1350811702_2ce7cfd0c5,a man in a white shirt and a white jacket and a white jacket and a white dog and a white dog on the beach,0.011856660123276007,25,10.0
+245252561_4f20f1c89e,a dog is running in the water,0.09054992806599667,7,12.0
+2647049174_0fb47cee2e,a young boy wearing a blue shirt and a blue shirt is sitting on a bench,0.08326915667169545,16,8.8
+3266306177_7994dc2865,a black dog is running in the snow,0.4641208291870617,8,13.8
+343662720_39e4067cd1,a man in a black shirt and a black shirt and a woman in a room,0.04071220775553065,16,12.6
+518789868_8895ef8792,a man in a blue jacket is standing on a bench,0.052463410228614595,11,11.6
+2951092164_4940b9a517,a young girl in a bikini is jumping into the water,0.05452469119630864,11,11.6
+3319058642_885d756295,a woman in a black shirt and black hair and a woman in a black shirt and a black shirt,0.012673718536830811,20,7.8
+3386060324_b98fdfa449,a person in a black helmet is riding a bike in the air,0.5382218220688944,13,11.0
+382090166_be2c2c63e1,a black poodle is jumping in the snow,0.1944130841813964,8,12.2
+256444892_efcb3bd824,a man in a red jacket and a red jacket and a red jacket and a red jacket and a red jacket and a red jacket and a red jacket and a red jacket and a red jacket,0.015413846636068528,38,8.8
+2378127945_8dc9da82d7,a black dog is running through the snow,0.20205155046766235,8,9.0
+3705688385_47651205d3,a man is standing on a rock,0.12574334296829354,7,10.0
+268654674_d29e00b3d0,a man walks down a bridge,0.10266900960803409,6,9.6
+514222285_aa0c8d05b7,a man in a red jacket and a red jacket and a red jacket and a red sled and a red sled and a red sled,0.019320990745681776,26,9.8
+3698944019_825ef54f2f,a boy wearing a blue shirt and jeans is sitting on a bench,0.04494125428082658,13,10.2
+241346215_037e18403a,a man in a red shirt is standing in a boat,0.04740604259878138,11,9.2
+2095078658_c14ba89bc2,a dog runs through the snow,1.0,6,7.8
+1470132731_fa416b7504,a black dog is swimming in the water,0.5,8,6.8
+3656104088_a0d1642fa9,a dog is jumping over a large large large large bird,0.02818780157629645,11,11.6
+3079073247_97e88e2eb7,a man in a black shirt is riding a motorcycle,0.4671379777282001,10,9.8
+2115631346_9585a479b0,two dogs are running in the snow,0.23119742295813958,7,7.6
+530888330_a18343e38d,a man stands on a rocky mountain,0.07201170728284921,7,9.0
+3534824784_7133119316,a woman in a black shirt and a woman and a woman in a blue shirt and a woman in a blue shirt and a woman in a blue shirt,0.0860132510739358,30,11.4
+2974501005_346f74e5d8,a boy in a blue shirt is jumping off a rock,0.05012578715739066,11,11.6
+3352697012_751b079bbb,a group of people are playing in a stadium,0.06030725360407769,9,10.2
+1414820925_3504c394e1,a man is jumping into a fountain,0.07201170728284921,7,9.0
+305199420_89f6ddd778,a man in a red shirt is playing with a stick,0.04740604259878138,11,10.6
+2260369648_e21ae6494a,a woman in a red hat with a red hat,0.2777619034011791,10,12.2
+433855742_c2a6fda763,a dog is jumping over a dog,0.05411516285864537,7,12.4
+2521983429_33218366bd,a man stands on a rocky rock overlooking a lake,0.13747081017605653,10,9.8
+3315110972_1090d11728,a white bird flies over the water,0.24028114141347542,7,7.4
+2410153942_ba4a136358,a man in a red shirt is pulling a horse in a parade,0.0591460168684858,13,11.2
+145721496_687af9bb18,a man in a black jacket is climbing a rock,0.05873949094699214,10,11.0
+3105929913_94a6882e25,a man in a black shirt and a white shirt and a white shirt and a man and a man in a white shirt and a white shirt,0.017860092878992276,28,11.8
+782401952_5bc5d3413a,a man in a blue shirt is standing in front of a store,0.1051781439830431,13,11.6
+2633201394_ee4a7666ed,a dog is running through the water,0.23119742295813958,7,10.4
+3578068665_87bdacef6a,a race car car on the track,0.11362193664674995,7,12.2
+241347803_afb04b12c4,a sooners sooners sooners sooners sooners sooners is wearing red and red and red and red and red and red and white and white and white and white and white and white and white and white and white,0.0329963466276701,38,10.2
+412101267_7257e6d8c0,a black dog is running in the snow,0.14427171049309437,8,11.0
+3319899418_4bcf1b00d8,a person in a blue jacket is snowboarding over a snowy hill,0.22434531552409884,12,12.2
+2561319255_ce5ede291e,a young boy in a blue shirt is jumping over a fence,0.05637560315259291,12,10.4
+3613005134_bb7f304da1,a man in a blue outfit is playing in the air,0.022652581507881558,11,9.8
+3383491811_fd9d3a891d,a brown and brown dog is running in the water,0.05314968932522299,10,6.8
+3305767464_d64a336f60,a man in a red shirt and a white shirt and a white shirt and a white guitar and a guitar,0.14857839440651321,21,9.2
+3338217927_3c5cf3f7c6,a skier is jumping down a snowy hill,0.06164542728425844,8,10.4
+2815256108_fc1302117d,a man in a red jacket is standing in a red jacket,0.06238986072117501,12,15.4
+2845845721_d0bc113ff7,a young boy in a red shirt and blue shorts is playing soccer,0.051424016050282635,13,14.4
+3518675890_2f65e23ff9,a brown dog runs through the grass,0.2202445247572802,7,8.2
+319847643_df7c2a1d25,a child is sitting in a yellow and yellow tunnel,0.05873949094699214,10,13.8
+469617651_278e586e46,a man is standing on a train,0.02558948059670209,7,13.0
+341430859_4519802e8f,a person is climbing a snowy hill,0.033031643180138064,7,7.4
+2986671935_0c60bbb3fa,a group of people ride bicycles on a race,0.1561969968460128,9,7.0
+3178489390_13a6ae7524,a man in a black shirt and black shorts is running on the beach,0.08737167851715878,14,11.6
+2021602343_03023e1fd1,a young boy in a blue shirt is playing with a ball,0.11094660471566163,12,9.6
+3317960829_78bbfafbb6,a boy in a blue shirt is sitting on a metal bench,0.0428361950754725,12,7.6
+2676184321_858eff416b,a man in a blue shirt is standing in the distance,0.07175852914772135,11,12.8
+3630332976_fdba22c50b,a man in a red shirt is standing on a red bench,0.05637560315259291,12,10.8
+3682038869_585075b5ff,a dog is running through the woods,0.029519129053903102,7,11.0
+3539840291_1c3eed701d,a group of men in blue uniforms are playing soccer,0.02984745896009824,10,9.6
+3363836972_c87b58c948,a football player in a red jersey is kicking a soccer ball,0.119219885465362,12,11.0
+3538686658_30afc75f02,a man in a blue shirt is jumping off a hill,0.12760671487807074,11,10.2
+3347500603_13670ee6bf,a man in a red jacket and a red jacket and a shopping shopping cart,0.017395797375642234,15,10.4
+3596959859_a7cb1e194b,a group of people are riding a horse on a dirt path,0.2521193618434983,12,11.6
+2911928620_06c3fa293e,a motorcycle motorcycle car on a motorcycle,0.13201355840223275,7,10.4
+3070031806_3d587c2a66,two dogs are playing in the sand,0.07614310991217832,7,11.8
+534056823_0752303702,a man in a black jacket and a black jacket and a black jacket and a woman in a red jacket and a black jacket,0.030708987612633812,25,12.4
+493109089_468e105233,a boy in a red shirt is swinging on a playground,0.3508439695638686,11,10.2
+251056963_c8b67f0107,a black and white dog is jumping over a wooden fence,0.5193071778680676,11,10.0
+3348811097_0e09baa26f,a man is jumping off a ramp,0.07969405445668118,7,10.0
+1067790824_f3cc97239b,two dogs are playing in the water,0.07614310991217832,7,9.4
+3437781040_82b06facb3,a hockey player in a red jacket and black and black and black and black and white and white and white and white and white and white and white and white and white and white and white and,0.03411645077034132,38,12.2
+3002448718_a478c64fb4,a man in a black shirt and sunglasses and a woman and a woman in a black shirt and a woman and a woman in a black shirt,0.010043468297595231,28,11.4
+3412822878_5d961492e5,a skateboarder is jumping down a ramp,0.07849573146438121,7,12.0
+283428775_a3665bee7c,a black poodle is running in the grass,0.20205155046766235,8,11.8
+561179884_8b6b925ef9,a man climbs a rock,0.09057365499736145,5,11.2
+3688858505_e8afd1475d,two girls are sitting on a bench,0.033031643180138064,7,11.0
+3393446245_37dd3f3b59,a man in a red jacket and a hat is standing on a sidewalk,0.05437427682227521,14,11.8
+3726025663_e7d35d23f6,a man rides a bike on a bike,0.03655552228545124,8,6.6
+3043501068_be58ac47e1,a man in a black shirt is performing a trick on a bicycle,0.10874855364455038,13,11.2
+2460823604_7f6f786b1c,a man in a red shirt is kicking a soccer ball,0.04790437745835816,11,12.2
+3042380610_c5ea61eef8,a man in a black shirt and a white shirt and a white shirt and a white and white man and a white and white man are standing in a room,0.015170687183605524,31,6.8
+2788628994_61123c03d2,a man in a yellow shirt is climbing a mountain,0.2907153684841096,10,11.2
+3467510271_0f57e52768,a man in a white boat is pulled out a boat,0.2596535889340338,11,10.0
+3707990914_843e8f15f1,a man in a red kayak is wakeboarding,0.06500593260343691,8,9.8
+2677614492_792023b928,a dog jumps over a hurdle,0.05271202712688637,6,11.8
+3217291172_10ef70af88,a man in a red jacket stands in front of a building,0.22416933501922293,12,10.4
+2652155912_8ba5426790,a man in a black shirt is standing in a fire station,0.027705781179862037,12,9.2
+3631474374_e40764d153,a man in a red shirt is standing in a crowd of a crowd of people,0.03557982867938776,16,12.6
+2704934519_457dc38986,a young boy is swimming in the water,0.1561969968460128,8,10.2
+465859490_b077219424,a group of people are sitting at a table in a crowd,0.5583948264724179,12,14.2
+2192411521_9c7e488c5e,a man rides a unicycle on a unicycle,0.05440189863686198,8,13.0
+333973142_abcd151002,a black dog is running through a pond,0.1561969968460128,8,10.6
+2565685680_c30972455d,a black dog is swimming in the water,0.24028114141347542,8,9.8
+3513265399_a32e8cfd18,a man in a blue shirt is kicking a soccer ball,0.04740604259878138,11,13.2
+2003663004_5b70920a98,a man in a red uniform is running in the middle of a crowd,0.03798229226827674,14,9.6
+3280052365_c4644bf0a5,a group of people are posing for a picture,0.06376715693797415,9,13.0
+3396043950_12783c5147,a group of people in a crowd of a crowd of people,0.30661487102926754,12,12.4
+530661899_94655d7d0e,a group of people are standing on a mountain,0.06030725360407769,9,8.2
+479807833_85eed6899c,a man in a blue shirt is riding a bike in the woods,0.051424016050282635,13,12.0
+1269470943_ba7fc49b4d,a young boy in a blue shirt and blue shorts and a blue shirt and blue shorts and a blue shirt and a blue shirt and a blue shirt and a blue shirt and a blue shirt and,0.012961448381540544,38,12.2
+1287931016_fb015e2e10,a black dog is running in the snow,0.20403100964609877,8,9.4
+2629346153_155ba73ae9,a man in a red vest is riding a horse on a dirt path,0.03975360176263952,14,11.8
+2721656220_5f4cda8bc1,a young girl with a black shirt and a woman with a black shirt and a woman in a blue shirt,0.030232667130855925,21,8.8
+2219959872_988e6d498e,a man in a blue shirt and a blue shirt and a woman in a blue shirt and a woman in a blue shirt and a woman in a blue shirt,0.09881511482966875,31,13.8
+551664516_78a5131dc4,a woman in a black dress and black boots is walking down a street,0.30315070099566327,14,11.6
+2381613738_d8d2012e3c,a boy swinging a tire swing,0.22509201421623343,6,9.0
+2543247940_083f1b7969,a dog runs in the grass,0.05271202712688637,6,13.4
+2417745327_a2c2705043,a dog is running through the water,0.9306048591020996,7,9.6
+3183883750_b6acc40397,a man with a baby and a baby and a man and a man and a man and a man and a man and a man in a black shirt,0.00821807407726565,30,11.0
+2119660490_ce0d4d1f73,a small brown dog is lying on a couch,0.13977121394614234,9,14.8
+3058627443_1d57ff0a2c,a man in a yellow wetsuit is riding a wave,0.06985342056580097,10,10.4
+2891617125_f939f604c7,a man rides a motorcycle,0.5475182535069453,5,9.4
+2735792721_b8fe85e803,a man in a red shirt is jumping through a lake,0.024808415001701823,11,9.2
+3138562460_44227a35cf,a dog is running in the air,0.07730551756939454,7,6.6
+3259110412_9908c45144,a snowboarder is climbing a rock wall,0.08783602619713961,7,7.4
+2445783904_e6c38a3a3d,a black dog is running through the grass,0.05752300429522425,8,11.6
+445861800_75fc6a8c16,a man in a black jacket and a man in a black jacket and a man in a black jacket and a man in a black jacket and a man in a black jacket and a man in,0.012258181047369768,38,11.0
+2973638173_0dc21fd443,a man is jumping off a cliff,0.07730551756939454,7,7.4
+460935487_75b2da7854,a black and white dog is playing in the water,0.502658727004553,10,11.4
+3674168459_6245f4f658,a group of people in black and white uniforms are dancing,0.022416933501922302,11,9.4
+3357416302_fcfcdd7b86,a snowboarder is snowboarding down a snowboard,0.17567205239427922,7,8.8
+3522749949_fb615cee47,a soccer player in a red uniform is running for the ball,0.12605968092174913,12,13.2
+2660480624_45f88b3022,a man in a blue shirt is standing in front of a car,0.43242270754632145,13,12.6
+2522540026_6ee8ab4c6a,a race car car on a track,0.06833381956448398,7,14.6
+2857609295_16aaa85293,a dog jumps to catch a frisbee,0.36741454942156665,7,10.6
+1461329041_c623b06e5b,a man and a woman ride a bike,0.024512401940754224,8,8.8
+3084018061_df66d98325,a man in a black shirt is standing in a subway station,0.03986357128268015,12,8.6
+3716277216_c04002be81,a group of people are standing in a red hut,0.02984745896009824,10,13.2
+820169182_f5e78d7d19,a baby is playing with a baby in a blue shirt,0.06596924585662962,11,9.6
+3637966641_1b108a35ba,a man in a black shirt is running in the air,0.04740604259878138,11,11.4
+240583223_e26e17ee96,a dog runs through the water,0.09554427922043669,6,7.6
+2884252132_5d8e776893,a young girl in a blue shirt is swinging a swing,0.17827531042796255,11,8.0
+2764732789_1392e962d0,a brown and brown dog is running through the grass,0.20556680845025987,10,10.0
+2752331711_cb18abba5a,a man is climbing a rope,0.07405418907727772,6,14.2
+3640020134_367941f5ec,a black dog is running in the water,0.3042729202167934,8,8.0
+2687328779_b4356dab16,a dog jumps into a pool,0.12418384916627943,6,18.0
+2369248869_0266760c4a,a black and white dog is running through the water,0.9306048591020996,10,9.4
+443430496_3fea95a07d,a brown dog is shaking off a stick,0.16348126556655487,8,8.0
+3439982121_0afc6d5973,a dog is standing on a couch,0.08783602619713961,7,14.8
+3248352729_ab264b2222,a person in a red jacket is riding a snowboard in the snow,0.10370611192789107,13,9.4
+3287963317_186491ee78,a man in a blue jacket is standing in a snowy mountain,0.02547055398169822,12,12.2
+3608400551_d6f7965308,a man in a blue shirt is jumping to catch a frisbee,0.04926862021119254,12,11.0
+2267819545_446c5a3e18,a man in a black and black hat and a black and white hat and a crowd of people in a crowd,0.1336412760311249,22,11.2
+2313230479_13f87c6bf3,a brown and white dog is running in the grass,0.21515344521672802,10,13.0
+1969573381_5ecfae4c80,a brown dog runs through the woods,0.08563683466425753,7,9.8
+3503623999_bbd5dcfb18,a woman in a red hat and a red hat and a red hat,0.5031747626530138,14,15.4
+470887791_86d5a08a38,a man in a black jacket and a black hat and a man in a black jacket and a man in a black jacket and a man in a black jacket,0.043881328105041834,31,13.6
+435739506_2daf7f4887,a black dog runs through the snow,0.08783602619713961,7,8.8
+2915183095_4ed4aa4f37,a man in a green shirt is jumping down a bench,0.024808415001701823,11,9.0
+2053733930_e245615ad4,a skier is snowboarding down a snowy hill,0.05873949094699214,8,8.0
+2944952557_8484f0da8f,a man in a red shirt is running on the ground,0.052463410228614595,11,11.8
+3396036947_0af6c3aab7,a young boy in a pink shirt is swinging a rope in the woods,0.11064054220098625,14,9.4
+2546959333_23b957988f,a brown dog is running on a grassy area,0.20744432576282615,9,8.2
+617038406_4092ee91dd,a woman in a blue shirt is standing in a park,0.05452469119630864,11,11.8
+3506607642_40037b3fbf,a soccer player kicks a soccer ball,0.17567205239427922,7,10.6
+268365231_a0acecdc45,a man in a green jacket walks down a sidewalk,0.050781487573685676,10,11.6
+3484820303_7be0e914b4,a man in a red shirt is riding a bicycle,0.08034284189446518,10,15.0
+2527163162_d0fb802992,a man wearing a red jacket is walking on a rope,0.06238986072117501,11,12.8
+2084217208_7bd9bc85e5,a man in a blue shirt and a blue shirt and a blue shirt and a man in a blue shirt and a blue shirt and a man in a blue shirt and a blue shirt,0.030353198426271925,36,10.0
+2943334864_6bab479a3e,a man rides a wheelie on a dirt bike,0.08777869475032282,9,11.2
+3207264553_8cd4dcde53,a man in a yellow kayak and a yellow kayak,0.056122223243057295,10,10.4
+2542037086_58c833699c,a young girl in a red shirt is sliding down a slide,0.13193849171325928,12,10.2
+3627676364_1dc9294ec5,a man in a blue shirt and a woman in a blue shirt and a woman in a blue shirt and a woman in a blue shirt and a woman in a blue shirt,0.0077426364109627836,34,8.8
+496971341_22782195f0,a dog is running through the grass,0.039281465090051315,7,9.4
+2021671653_567395c7cf,a little boy in a black jacket is walking on a sidewalk,0.12278260149096121,12,13.0
+2891240104_6755281868,a man in a blue shirt is standing on a bench,0.02818780157629645,11,11.2
+310213587_778fe8fb5b,a man and a man sit on a bench,0.3229365231336651,9,16.4
+140430106_2978fda105,a dog running along the beach,0.30414436445480186,6,10.8
+3535056297_e16f014cb7,a man in a white jacket is standing on a bench,0.04740604259878138,11,9.8
+2970183443_accd597e0a,a man in a black shirt is jumping over a wooden bench,0.05573585641057968,12,16.4
+2444134813_20895c640c,a man and a dog are jumping over a frisbee,0.1186840521952098,10,7.0
+116409198_0fe0c94f3b,a hiker is climbing a snowy mountain,0.03266828640925502,7,12.2
+3726700898_c50494b8bd,a man in a red shirt and a black shirt and a woman in a red shirt and a woman in a red shirt and a white shirt,0.022229849552064022,28,12.6
+2584412512_6767593f24,a white and white dog is running in the grass,0.14287202148494,10,9.6
+2858903676_6278f07ee3,a boy is jumping off a fence,0.043472087194499145,7,11.8
+3383545083_1d7c95b003,a black dog is running in the grass,0.09720654209069822,8,8.4
+2500567791_101d5ddee3,a dog is running over a fence,0.07730551756939454,7,11.0
+3213395965_2a823c6865,a man in a black jacket and a woman in a black jacket and a woman in a blue jacket and a man in a blue jacket,0.1892240568795935,27,10.4
+2407470303_6fd5e3600d,a small white dog runs along the beach,0.20205155046766235,8,12.0
+2837640996_0183db8d93,a young boy in a blue shirt is sitting on a metal slide,0.05344445934790546,13,13.4
+3649916507_b88a3d2082,a man in a blue shirt is riding a bike in the woods,0.3541698766144061,13,8.4
+3111897772_5211a37a02,a man in a red shirt and a white hat and a woman in a red costume and a man in a white costume,0.011833064662823948,24,12.2
+2744330402_824240184c,a group of people are rowing a boat in a boat,0.17827531042796255,11,10.0
+2922512807_d382528a93,a skateboarder is skateboarding on a skateboard,0.16102307266026747,7,10.2
+3321516504_5ee97771cb,a baby sits on a blanket,0.14670588332232096,6,12.0
+3119903318_d032141839,a group of people are standing in front of a large crowd,0.24384183193426084,12,12.2
+492341908_1ef53be265,a man in a black and black hat is riding a horse,0.04559460694781592,12,9.2
+350443876_c9769f5734,a man in a red shirt and jeans is sitting on a metal chair,0.03446151880350207,14,11.6
+2726262796_03bd63a155,a young boy in a bikini is jumping into the ocean,0.28997844147152074,11,10.2
+544257613_d9a1fea3f7,a man with a black jacket and a black jacket and a black jacket,0.09303723531853667,14,11.0
+540604040_bec822c144,a boy in a blue shirt is jumping over a wooden fence,0.04926862021119254,12,12.4
+2194495372_bdac7d9e71,a group of boys are playing soccer,0.10445522730720382,7,8.8
+3703413486_3c682732a0,a man in a black jacket is standing on a bench in front of a crowd of people,0.025281168697394947,18,13.0
+1104133405_c04a00707f,a young boy in a red shirt is playing with a soccer ball,0.22997519112894443,13,10.2
+2768021570_46bc6325e3,a dog and a dog are playing in the snow,0.11239790830656897,10,12.4
+2602258549_7401a3cdae,a group of people are sitting at a table in a room,0.29502343631964045,12,10.8
+2648310638_d6c576b5e4,a young boy is running down a path,0.023825412935547602,8,15.8
+336551615_a01418bc53,a skier is jumping down a snowy hill,0.05873949094699214,8,8.2
+3404978479_8a81843e17,a little girl is playing with a toy,0.17156894461200053,8,10.6
+2165461920_1a4144eb2b,two dogs are fighting on a grassy field,0.057367534172156044,8,8.6
+3368569524_a9df2fc312,a group of men in white uniforms are fighting,0.06030725360407769,9,11.8
+3638374272_444f5e0457,a group of people are standing on a path,0.473364131565402,9,13.8
+2834103050_512e5b330a,a group of people are standing on a busy street,0.13747081017605653,10,11.6
+2238166082_140f8b01b8,a child in a red jacket and a red and blue jacket and a red and blue jacket and a red and blue sled sliding down a snow,0.16170596160446446,28,11.2
+2623560640_0445c9a138,a man in a red shirt is standing on a rock,0.06238986072117501,11,12.4
+223299142_521aedf9e7,a hiker is standing on a rocky mountain,0.06985342056580097,8,9.2
+2125216241_5b265a2fbc,a man and a boat are on a boat on a boat,0.10025157431478134,12,10.2
+359837950_9e22ffe6c2,a black dog is running on the ground,0.5623413251903491,8,9.8
+2567035103_3511020c8f,a black and white dog is running in the grass,0.6756000774035172,10,10.4
+210126070_0d43b300b9,a man in a blue shirt jumps into a fountain,0.02984745896009824,10,11.2
+2891961886_b7a2f0b0fd,a man in a blue shirt is walking down a bench,0.04179252131328987,11,7.8
+2750867389_4b815f793a,a man in a blue shirt is sitting on a car in a car,0.05231868220107226,14,12.8
+576920249_df1bdc2068,a group of people in uniforms uniforms in a white and white and white and white and white and white and white and white and white and white and white and white and white and white and white,0.0329963466276701,38,10.4
+3433982387_3fa993cf5a,a woman in a black dress and a woman in a black dress and a woman in a black dress,0.03312498979466406,20,14.2
+426920445_d07d1fd0f7,a black and white dog is running through the grass,1.0,10,9.4
+472860064_a96a228796,a black dog is playing in the grass,0.28117066259517454,8,10.2
+3294952558_96bb8c8cf3,a dog is running in a grassy field,0.1409020089952245,8,11.8
+1860543210_47e94cf652,a man in a white shirt and a white shirt and a white shirt and a man in a white shirt and a white jacket,0.026058929270445657,25,13.6
+3528105511_12ff45dc9c,a person is jumping off a jump,0.08307018474412793,7,8.2
+361183669_52be9662b9,a man in a blue shirt is jumping into a pool,0.03986357128268015,11,9.2
+3076928208_5763e9eb8c,a dog is running through the grass,0.08469480693822054,7,12.6
+466956675_a2fb6bf901,a man climbs a rock,0.16990442448471224,5,5.6
+2339140905_9f625f140a,a man in a red jacket and a red jacket and a red jacket and a child and a child and a child and a child on a snowy hill,0.04370614964591188,30,10.4
+3421131122_2e4bde661e,a man in a red kayak is riding a wave,0.34329452398451965,10,12.0
+3519815055_304dc8e8d6,a man in a yellow shirt is climbing a metal structure,0.052463410228614595,11,9.8
+2856923934_6eb8832c9a,a man in a yellow kayak is riding a raft,0.07730551756939458,10,10.8
+2576878141_87f25a10f0,a little boy in a red shirt is playing with a toy toy,0.3805803001674946,13,13.2
+2842849030_89548af61c,a boy in a blue scubba scubba blue scubba is splashing in the water,0.04131551591106297,14,11.4
+3329169877_175cb16845,a snowboarder is jumping through the air in the air,0.38312604050508564,10,11.6
+3701226275_952547ba0f,a young boy in a blue shirt is playing on a playground,0.05094110796339642,12,16.0
+3518755601_cebf11e515,a man in a black jacket is walking on the beach,0.10600313379512592,11,9.6
+3091962081_194f2f3bd4,a man and a woman sit on a bench and sitting on a bench,0.043994592313679984,14,16.2
+533713001_2d36e93509,a group of people sit at a table,0.4630777161991027,8,12.8
+3155390408_8e1a81efb2,a dog is playing with a toy,0.07614310991217832,7,11.6
+2616561200_ea079f285a,a brown and white dog is jumping over a wooden and white dog,0.31455601883230705,13,8.4
+2216695423_1362cb25f3,two dogs are fighting in the snow,0.09878765474230743,7,8.0
+2555535057_007501dae5,a small dog runs on a gravel path,0.1561969968460128,8,10.6
+2362481035_a7600875d0,a young boy in a blue shirt is swinging on a tire swing,0.06767781116542884,13,10.0
+3030566410_393c36a6c5,a man in a blue shirt is jumping into a fountain,0.05012578715739066,11,15.0
+436013859_793d870b6f,a dog jumps to catch a frisbee,0.488923022434901,7,10.4
+3638783842_af08dbb518,a man in a black shirt and a white shirt and a woman in a white shirt and a white shirt,0.010862721615727716,21,7.2
+2115849046_2aa9fa8d13,a brown dog is running through the water,0.274941620352113,8,12.6
+3673165148_67f217064f,a dog is running through the water,0.10445522730720382,7,11.2
+3640329164_20cb245fd5,a man in a wetsuit is jumping into the water,0.05873949094699214,10,9.2
+2194494220_bb2178832c,a dog is running through the snow,0.09193227152249185,7,10.4
+3307563498_e2b4f19272,a man in a red shirt and a woman and a woman in a boat on the beach,0.06357877332311639,18,10.6
+3576741633_671340544c,a man is riding a trick on a bench,0.0693631908381303,9,10.8
+2599131872_65789d86d5,a woman in a pink dress is dancing in a pink dress,0.017033186037639283,12,8.0
+3217893350_57be430d06,a man and a woman are standing on the beach,0.22089591134157885,10,13.2
+468918320_9c275b877f,a boy is sitting on a bench in a park,0.3655552228545123,10,10.4
+3111208043_dbe8e87fa1,a young boy is skating on a skateboard,0.06500593260343691,8,6.2
+3134585858_a8c3493ca5,a man in a black jacket and a black jacket and a man in a winter jacket and a man in a black jacket and a man in a winter jacket,0.0244529464389049,31,12.0
+2351479551_e8820a1ff3,a man in a blue shirt is jumping off a wooden wall,0.11390778025531027,12,11.2
+2327088022_478dbd2c17,a man in a yellow jacket is climbing a large rock,0.059609942732681,11,11.0
+3608849440_e7d2bed29f,a soccer player kicks a soccer ball in the grass,0.11239790830656897,10,10.0
+2909875716_25c8652614,a young girl in a pink dress is walking in the air,0.11786698582359299,12,12.8
+3435035138_af32890a4c,a dog runs through the leaves,0.1837868600016897,6,10.8
+2346772831_b2748ba1f0,a man in a blue jacket is standing on a horse,0.06484115071397648,11,11.8
+897621891_efb1e00d1d,a young boy in a swimming pool is swimming underwater underwater,0.13193849171325928,11,9.4
+2622971954_59f192922d,a man in a crowd of a crowd of people,0.6606328636027614,10,12.2
+911795495_342bb15b97,a young girl in a red dress and a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a red shirt,0.04537093718058582,31,10.8
+502884177_25939ac000,a man in a black jacket and a woman in a black jacket and a woman in a black jacket and a woman in a black jacket,0.10332090908268508,27,11.0
+389643437_9a9830a3ba,a small boy with a red shirt and a red shirt and a woman in a red shirt and a red shirt and a woman in a red shirt and a red shirt and a woman in a,0.017335685887215155,38,11.6
+2109911919_af45b93ef3,a skier is climbing a snowy hill,0.1155987114790698,7,10.2
+2865376471_43c5e6b941,a small white dog is jumping over a white dog,0.13747081017605653,10,11.8
+3649224118_abe73c672c,a young boy is running on the beach,0.1561969968460128,8,8.4
+3430100177_5864bf1e73,two children are standing on a sidewalk,0.13391424795650433,7,13.0
+3225037367_a71fa86319,a crowd of people in a crowd of people,0.4671379777282001,9,8.8
+1348947380_14f0fc1237,a dog is walking on a lake,0.10488327405725884,7,11.0
+109823397_e35154645f,a man is driving a atv on a dirt path,0.07259795291154773,10,12.4
+3298233193_d2a550840d,a dog with a brown dog in the water,0.19070828081828378,9,9.6
+2276314067_7ee246f859,a black dog is jumping to catch a large dog,0.02984745896009824,10,9.0
+3335370208_460fc19bfa,a dirt race car is driving down a dirt track,0.056122223243057295,10,13.8
+3404870997_7b0cd755de,a group of people are watching a picture of a group of people are watching them,0.31823566221963034,16,13.2
+2030781555_b7ff7be28f,a man is in a boat in a city park,0.021105340631872645,10,7.4
+3694219419_a7a83d4886,a man in a red shirt is standing on a tree,0.026658376817028855,11,13.0
+3415646718_f9f4e23a66,a man in a black and black horse and a black and black dog and a black dog in a rodeo,0.031420504922717064,21,10.6
+510510783_b2cf5d57bb,a boy in a blue shirt is swinging a rope,0.05873949094699214,10,14.2
+3241965735_8742782a70,a snowboarder is performing a trick on a snowboard,0.07936880926086218,9,10.4
+3541962817_78bcd3835b,a jockey is riding a horse in a race,0.1623339577375495,9,9.8
+506882688_b37d549593,a group of people are standing in a fountain,0.15609504551459075,9,11.0
+3199895624_4f01798c6f,a man in a black shirt and a woman and a woman pose for a picture,0.08109874340870843,16,10.0
+2707873672_15e6b5d54b,a boy swings a rope,0.06900940978236146,5,12.2
+2960033435_c20cc7399a,a dog is jumping to catch a frisbee,0.05076387311789578,8,13.4
+3114944484_28b5bb9842,a group of people are standing in a crowd of a crowd,0.5747078645171895,12,15.4
+1427391496_ea512cbe7f,a boy in a blue shirt is standing on a wooden bench,0.32466791547509893,12,14.0
+635444010_bd81c89ab7,a little girl in a red dress is walking down a sidewalk,0.1281101041965245,12,11.2
+3254645823_a7c072481c,a snowboarder is jumping off a snowy hill,0.03655552228545124,8,9.0
+2894850774_2d530040a1,a man in a blue shirt is standing on a bench,0.024808415001701823,11,13.0
+2272750492_91e8f67328,a man in a black shirt is jumping off a ramp,0.04576989215762564,11,8.4
+1643915227_9f48068772,a man in a red shirt and a firetruck in a city street,0.024316915840399723,13,8.8
+244399048_8332bb3270,a dog is playing with a toy,0.21515344521672802,7,10.2
+3619630328_2d0865b6f4,a dog is jumping over a fence,0.8091067115702212,7,7.8
+2635938723_11b85e6763,a little girl in a blue shirt is eating a bubble,0.11731175160264001,11,8.2
+1095476286_87d4f8664e,a group of people are playing in a fountain,0.14923729480049117,9,7.6
+954987350_a0c608b467,a woman in a black shirt and sunglasses and a woman in a black shirt and sunglasses and a woman in a black shirt and a woman in a black shirt,0.07939087147543496,31,12.0
+3288274849_07ff76ee93,a snowboarder is performing a trick on a snowboard,0.13125976421208477,9,11.0
+1424237335_b3be9920ba,a little girl jumps over a bar,0.062425357566781164,7,11.6
+2272823323_3b7291cd47,a man in a red hat and a red hat and a red hat and a red hat and a red hat and a red hat and a red and red hat and a red and red hat,0.015413846636068528,38,10.6
+2592019072_a6c0090da4,a girl in a pink shirt and a pink shirt and a white dress and a girl in a pink dress and a white dress,0.02191286020886785,25,9.2
+3724113279_99b6e5bf41,a man in a black shirt is riding a bike in the air,0.04494125428082658,13,10.0
+1432342377_3e41603f26,a man in a white shirt and a white shirt and a woman in a white shirt and a white bag,0.0664462779761476,21,10.8
+2855667597_bf6ceaef8e,a black dog is running in the grass,0.06985342056580097,8,7.4
+3451344589_6787bd06ef,a woman in a red shirt and a woman in a red shirt and a woman in a red shirt and a woman in a red shirt and a woman in a red shirt,0.07541356871486662,34,11.0
+2928835996_88b9f9503d,a group of people are standing in a field,0.14113991930789777,9,11.0
+2335428699_4eba9b6245,a man is jumping over a dock in a lake,0.05307712171072445,10,9.2
+2906802485_dfebf09173,a man in a yellow kayak is riding a river in the river,0.04646684393670022,13,8.0
+1801063894_60bce29e19,a man is standing on a rock,0.21281397709599684,7,15.2
+3556598205_86c180769d,a man in a blue shirt is riding a bike on a dirt path,0.1098640693749858,14,9.2
+2181724497_dbb7fcb0a9,a young boy is eating a baby in a container,0.07506238537503397,10,12.2
+3726120436_740bda8416,a young boy in a blue shirt is sitting on a bench next to a blue car,0.08513012360883548,17,11.6
+2281006675_fde04e93dd,a dog is running on a beach,0.274941620352113,7,11.4
+989754491_7e53fb4586,a young boy in a swimming pool is swimming underwater in a pool,0.1051781439830431,13,16.0
+3231751379_10ebf7150c,a hockey player in a red jersey is guarding a game,0.3508439695638686,11,11.8
+2728276857_3f83757ef2,two girls dressed in wigs,0.05372849659117709,5,9.4
+3415228562_4efa9c9b70,a man in a blue shirt and jeans is standing on a concrete wall,0.05622008276590379,14,12.2
+1115565519_d976d4b1f1,a man in a black shirt is standing on the street,0.052463410228614595,11,9.2
+2574230252_f5a1382dd4,a brown dog is swimming in the water,0.1944130841813964,8,8.8
+3405942945_f4af2934a6,a boy in a blue jacket and blue jacket is standing in the grass,0.13157451999317168,14,11.0
+459778335_857d8ffebf,a boy in a bikini and shorts is jumping into the water,0.05859059370151704,12,14.4
+3215315009_47577bf8f7,a man in a black jacket is snowboarding off a ramp,0.04328649145305472,11,9.0
+2090997177_76d482b158,a black dog is running through the water,0.21515344521672797,8,7.8
+799431781_65dc312afc,a young boy in a red shirt and a pink shirt and a brown and white and white and white and white and white and white and white and white and white and white and white and white,0.006893281774601134,38,12.2
+3543378438_47e2712486,a man in a white shirt is standing on a table,0.06904573083274564,11,13.6
+3195040792_a03954a19f,a dog runs through the snow,0.09554427922043669,6,7.6
+3323988406_e3c8fce690,a man is sitting on a bench on a bench,0.06985342056580097,10,9.6
+458735196_176e7df6b3,a small brown dog is playing with a toy,0.1803607563513132,9,9.8
+2943023421_e297f05e11,a car drives through the water,0.022458068077762672,6,13.8
+3229821595_77ace81c6b,a group of people are standing on a snowy road,0.688467755321249,10,17.2
+255091927_2eb643beb2,a woman in a black shirt and a woman in a black shirt and a woman in a black shirt and a woman in a black shirt and a woman in a black shirt,0.030787460505623355,34,8.0
+3066338314_2c3fb731d1,a man in a blue shirt and sunglasses and a woman and a woman are sitting on a table in a restaurant,0.08687475782716618,22,10.2
+428796930_476a3d6395,a black dog is running in the grass,0.5623413251903491,8,9.6
+1808370027_2088394eb4,a surfer is swimming in the water,0.08307018474412793,7,7.4
+3430526230_234b3550f6,a black dog is running through a lake,0.04153509237206396,8,9.6
+1007320043_627395c3d8,a girl in a red shirt and red hair climbs a carnival,0.06238986072117501,12,9.6
+2358554995_54ed3baa83,a boy in a red shirt and a red jacket and a red jacket and a red shirt and a red shirt and a red shirt and a red shirt and a red shirt,0.006510755202591488,34,10.4
+724702877_f2a938766b,a brown and brown dog is jumping over a wooden pool,0.052463410228614595,11,10.6
+2952141476_fc9a48a60a,a dog is jumping through the water,0.08307018474412793,7,10.4
+1428578577_82864facae,a man is jumping over a large wave,0.022702294218557836,8,12.0
+3401902253_cd27e6d0fe,a black and white dog is running through the water,0.4671379777282001,10,8.6
+2051194177_fbeee211e3,a dog is swimming in the water,0.05134473204175721,7,14.4
+3415287719_3c776f370e,a man in a blue shirt is standing on a grassy path,0.020255986027125642,12,10.4
+3403263046_3cc701a07a,a man in a blue shirt is playing with a basketball,0.05920650116149805,11,16.8
+2271468944_3264d29208,a boy in a blue shirt is running on a path,0.05637560315259291,11,10.2
+566921157_07c18a41e2,a dog runs in the snow,0.10266900960803409,6,7.0
+3433470650_a8b1c27173,a group of people are standing in a parade,0.14442160362886172,9,14.4
+3397228832_8ce5b1c26f,a man in a yellow kayak is riding a surfboard,0.1634812655665549,10,9.0
+2935703360_4f794f7f09,a dog is jumping over a chain,0.17567205239427922,7,9.2
+3724718895_bd03f4a4dc,a black and white dog is running in the grass,0.7811823558239486,10,10.4
+2868575889_2c030aa8ae,a young boy in a red shirt is running on the street,0.46595384151899627,12,14.6
+219730733_6a55382dd2,a man in a blue shirt is walking down a street,0.06238986072117501,11,11.2
+3295680663_af21ea648b,a man in a blue shirt is riding a potties in front of a building,0.04841524713034601,15,12.6
+439492931_a96d590e40,two dogs are playing with each other,0.20556680845025987,7,9.2
+1332722096_1e3de8ae70,a man in a white shirt is walking past a man in a white shirt,0.017395797375642234,15,10.8
+3012513414_86180c44cb,a snowboarder is snowboarding over a snowy hill,0.06164542728425844,8,11.4
+236095031_5cb17dc54a,a man climbs a rock wall,0.10855926040543844,6,8.2
+2404692474_37da774368,a dog is running in the air,0.09878765474230743,7,7.6
+3488512097_e500cb499f,a motorcycle rider is driving down a motorcycle,0.06985342056580097,8,11.0
+247778426_fd59734130,a black dog is running through the water,0.42728700639623407,8,6.2
+3132619510_7dfc947d25,a white dog runs through the grass,0.16348126556655487,7,9.8
+232193739_ed5f348c7a,a boy is climbing a rock,0.05372849659117709,6,9.2
+1799271536_6e69c8f1dc,a dog is jumping on the beach,0.08783602619713961,7,8.0
+2358898017_24496b80e8,a dog jumps over a ball,0.0808764862779457,6,9.4
+3375549004_beee810e60,a man in a blue jacket and a woman in a blue jacket and a woman in a blue jacket and a woman in a blue jacket,0.020876149875884896,27,8.4
+2098174172_e57d86ea03,a hiker is standing on a mountain capped mountains,0.36889397323344053,9,11.0
+3526805681_38461c0d5d,a small dog is playing with a small dog,0.06072180438835134,9,16.0
+3671933270_d124e9a1a4,a man in a blue helmet is riding a bike in the air,0.0591460168684858,13,9.2
+436009777_440c7679a1,a boy in a green shirt is walking down a path,0.04740604259878138,11,10.8
+2308108566_2cba6bca53,a mountain biker rides down a trail,0.08783602619713961,7,7.6
+2311690895_0d6efe11c8,a dog is biting a dog,0.21711852081087685,6,9.4
+2597308074_acacc12e1b,a boy is running on a beach,0.09193227152249185,7,10.6
+1309330801_aeeb23f1ee,a skateboarder jumps into a skatepark,0.041095991233501536,6,12.0
+1308472581_9961782889,a boy in a blue shirt is standing on a dock next to a blue fountain,0.10074708078532289,16,11.0
+374103842_17873ce505,a man in a black jacket and a woman and a woman in a blue shirt and a woman in a blue shirt and a woman in a blue shirt,0.16436148154531297,30,10.8
+3197891333_b1b0fd1702,two young girls are sitting on a bench,0.03303164318013808,8,11.2
+353180303_6a24179c50,a group of people are standing in a stage,0.06030725360407769,9,10.8
+95728660_d47de66544,a hiker is hiking on a rocky hill,0.07386099955930606,8,9.2
+3368671163_0171259581,a dog is running through a grassy field,0.08783602619713961,8,10.8
+1084040636_97d9633581,a white dog and a white dog are fighting,0.12753431387594827,9,11.2
+106514190_bae200f463,a man in a blue jacket is snowboarding over a snowy hill,0.02547055398169822,12,9.4
+58368365_03ed3e5bdf,a man in a black jacket is standing on a mountain,0.14991106946711685,11,10.0
+56494233_1824005879,a man is hiking in the snow,0.1737396135705647,7,12.2
+3057497487_57ecc60ff1,a group of people are playing in a carnival,0.05396530161402381,9,11.0
+424869823_7aec015d87,a child is jumping over a large large large large large man,0.022416933501922302,12,11.0
+3210419174_d083a16f77,a man in a black shirt and a woman in a black shirt and a man in a blue shirt and a man in a blue shirt,0.045466972369917126,27,12.0
+3262386960_14f5d857db,a man in a white shirt is performing a trick in the air,0.051424016050282635,13,9.8
+2374247382_023a86b9ca,a baby in a red shirt is playing with a toy,0.026658376817028855,11,8.6
+2545192257_142fe9e2de,a black and white dog is playing with a toy,0.5169731539571706,10,12.8
+763577068_4b96ed768b,a dog is running in the grass,0.20556680845025987,7,11.0
+3231880001_193a579b97,a young boy with a baby and a baby and a boy in a green shirt and a boy in a green shirt and a boy in a blue shirt,0.017379110740253053,30,12.6
+2525666287_638ab5e784,a man in a black shirt and black pants is standing on a sidewalk,0.09997501561329078,14,12.4
+566397227_a469e9e415,a child is running in the grass,0.07121955954495507,7,12.2
+2609836649_b55831ed41,a black and white dog is swimming in the water,0.5169731539571706,10,11.0
+406248253_27b5eba25a,a child in a red jacket is standing in the snow,0.3672056269893592,11,15.0
+3665996775_6d7d9a46f1,a little girl in a pink dress is running in the grass,0.47718970758108814,12,11.6
+2759596272_e0ce0a965a,a young boy is swinging on a swing,0.08783602619713961,8,10.2
+1689658980_0074d81d28,two dogs are running in the snow,0.488923022434901,7,8.0
+3547524138_4157f660b0,a woman in a blue shirt and a woman in a blue shirt and a woman in a blue shirt and a woman in a blue shirt,0.009871721786705418,27,10.2
+3271061953_700b96520c,a group of people are watching a group of people are watching a classic classic classic building,0.23287896954139942,17,11.2
+380515798_c2abbf46b0,a group of people are walking down a street,0.05972242358741472,9,11.2
+2318721455_80c6644441,a little boy in a blue shirt is sitting on a couch,0.09760415363690406,12,12.0
+405051459_3b3a3ba5b3,a man in a black jacket is standing on a street,0.06904573083274564,11,14.6
+3126724531_f483e1b92a,a surfer is surfing on a wave,0.12098967350244397,7,7.8
+237277765_9e6fa5b99a,a man in a white shirt is standing on a rock,0.05012578715739066,11,10.8
+2987576188_f82304f394,a group of people are playing in a fountain,0.4671379777282001,9,10.0
+3156113206_53c2a7b5d8,a group of people are wading in the water,0.06674094719041482,9,9.0
+3706356018_28f62290e8,a group of people are sitting on a bench in front of a building,0.09669265690880861,14,10.6
+872135364_8c1e47d163,a black dog is jumping over a fence,0.1477219991186121,8,10.6
+2860400846_2c1026a573,a dog runs through the grass,0.05271202712688637,6,12.8
+259314892_a42b8af664,a dog is running through the woods,0.10445522730720382,7,12.2
+2587106431_1cc0e719c6,a man and a woman are wearing a red shirt and a red shirt and a woman and a woman in a blue shirt,0.01287150253861497,24,12.0
+2319175397_3e586cfaf8,a white dog is running through the snow,0.07386099955930606,8,8.4
+3223606402_bb2aa6db95,a man in a black shirt is jumping off a ramp,0.05452469119630864,11,9.8
+3041170372_c4376cd497,a man in a blue outfit is riding a bike in the air,0.12035005811198446,13,9.6
+3072730593_b7322d2e05,a man in a white hat and a white hat and a white hat and a white and white hat and a white and white and white and white and white and white and white and white and,0.012961448381540544,38,12.6
+3644142276_caed26029e,a child in a red shirt and a red shirt and a drum,0.020448007360218394,13,9.2
+325576658_59f68bdbd6,a man in a blue jacket is standing on a bench,0.07641166194509465,11,14.2
+3183195653_11b66acb34,a man in a red jacket and a red hat and a helmet,0.04131551591106297,13,11.4
+2694178830_116be6a6a9,a man in a red shirt is swinging a swing,0.027007097700389556,10,9.8
+485566887_57eac33bd1,a brown dog is running through the grass,0.09554427922043669,8,10.4
+3525453732_f74a38f111,a white dog is jumping over a large grassy yard,0.025098621243978974,10,8.4
+2746910139_77ba5be2c5,a little girl is playing in a table,0.4111336169005197,8,9.0
+373394550_1b2296b8c4,a boy in a blue shirt is sitting on a slide,0.12760671487807074,11,12.4
+255741044_1102982213,a brown and white dog is playing with a brown and white dog,0.08737167851715875,13,11.0
+2826030193_4278ccb833,a young boy in a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a red,0.031748934862197195,38,11.0
+150582765_bad8dec237,a woman in a black shirt and a black shirt and a woman in a black shirt and a white shirt,0.06760229884571738,21,8.6
+2125626631_a4b63af97e,a black and white dog is jumping over a grassy field,0.11530568323789493,11,9.8
+3675685612_3987d91d92,a man in a blue shirt is climbing a large tent,0.024808415001701823,11,10.6
+3598447435_f66cd10bd6,a man in a yellow kayak is climbing a waterfall,0.16990442448471224,10,9.4
+2140305708_591d10b54d,a woman in a bikini and a bikini and a woman in a bikini and bikini and a woman in a bikini and bikini and a woman in a bikini,0.016604746091696276,30,12.2
+2414390475_28a0107bb0,a man in a black shirt is looking at a table,0.3508439695638686,11,14.6
+3232030272_b2480a5fe7,a man in a blue shirt is jumping over a wooden ramp,0.02547055398169822,12,12.8
+3520079657_b828d96d50,two children are playing in the beach,0.06435413670103206,7,12.0
+224369028_b1ac40d1fa,a boy is running down a fountain,0.062425357566781164,7,12.8
+2114739371_83aa8bdb0e,a dog is running in the grass,0.488923022434901,7,8.8
+3623331945_df0f51d7dd,a young boy is walking on the beach,0.12923110938332236,8,11.8
+3433259846_800a6079f0,a young boy in a karate outfit is playing with a basketball,0.0428361950754725,12,8.8
+3291255271_a185eba408,a young boy wearing a red shirt is playing on a swing,0.1281101041965245,12,11.4
+2695085448_a11833df95,a man in a black jacket and black jacket is standing on a bench,0.09303723531853667,14,12.6
+3358380484_b99b48f0c9,a brown dog is running in the grass,0.1880301546543197,8,9.4
+3473534758_1ae3847781,a brown dog is running in the sand,0.03303164318013808,8,8.8
+359173181_a75c950aeb,a dog runs through the water,0.4548019047027907,6,10.2
+2635908229_b9fc90d3fb,a man in a blue shirt is standing on a rock overlooking a lake,0.04516881220954754,14,9.2
+3333675897_0043f992d3,a small dog is jumping over a hurdle,0.11880509436980435,8,14.0
+1476241331_2f43b67aed,a boy in a blue shirt and a blue shirt and a blue shirt and a boy in a blue shirt and blue shirt and a boy in a blue shirt and blue shirt and a boy in,0.01918509013698504,38,9.6
+3595398879_13e33b8916,a boy in a blue shirt and blue shirt is sitting on a bench,0.3872015705071016,14,12.8
+1835511273_790eaae6e6,a man in a red jacket and a red helmet and a red helmet and a red helmet and a red helmet and a red helmet and a red helmet and a red helmet,0.13628770358024436,34,12.6
+3665169936_01ae94c9fd,a man is jumping off a hill,0.08307018474412793,7,10.4
+333031366_a0828c540d,a dog runs through the water,0.09346579571601446,6,12.6
+2205336881_d9ee4179d3,two girls are sitting on a couch,0.024549475440235117,7,12.8
+3542418447_7c337360d6,a dog is running in the air to catch a frisbee,0.11530568323789493,11,15.0
+3182570190_48214e54c7,a man in a black shirt and a black shirt and a white shirt and a white shirt and a white shirt and a white shirt and a white shirt and a white and white shirt are standing,0.018555209289044104,38,10.8
+3187395715_f2940c2b72,a man in a blue shirt is jumping down a bench,0.06484115071397648,11,9.2
+3527184455_1a9c074ff2,a little boy is sitting on a bench and drinking a table,0.2521193618434983,12,13.6
+543102698_38e7e38bbc,a young boy in a red shirt is jumping over a wooden fence,0.3867706276352344,13,17.0
+1355450069_c0675b0706,a man is climbing a rock face,0.7311104457090247,7,11.2
+1224851143_33bcdd299c,a little boy in a blue shirt is eating a baby in a blue and blue shirt,0.08651480732019924,17,11.4
+3545427060_c16a8b7dfd,a man in a bikini is jumping into the water,0.04469338322542863,10,7.6
+2984704498_29b53df5df,a man with a black shirt and a white shirt and a white shirt and a white shirt,0.030064545690526145,18,9.8
+3556037801_3992ce6826,a man in a blue shirt is sitting on a park ride,0.525045957788985,12,12.6
+3262075846_5695021d84,a man in a black uniform is kicking a soccer ball,0.024808415001701823,11,8.0
+649596742_5ba84ce946,a black and white dog is running in the grass,0.4111336169005197,10,11.0
+3126681108_f88128699c,a man in a green jacket is standing in the snow,0.030661487102926755,11,9.8
+543940240_a54a3c7989,a man in a blue shirt is jumping over a fence,0.02068408840048898,11,8.4
+502115726_927dd684d3,a boy in a blue shirt is sitting on a wooden slide,0.2790159393585827,12,10.2
+2990471798_73c50c76fb,a boy in a red shirt and red shirt is standing on a playground,0.04913270548144422,14,10.2
+3180806542_49b6de312d,a man is jumping off a snowy hill,0.06985342056580097,8,9.4
+1714316707_8bbaa2a2ba,a young boy in a winter jacket is walking down a snowy path,0.11685792587573332,13,11.4
+3498997518_c2b16f0a0e,a football player in a red jersey is tackling a football player in the middle of the field,0.33599730590055277,18,16.4
+2918769188_565dd48060,a boy in a blue life jacket is swimming underwater in the water,0.05476690957693973,13,9.2
+2176980976_7054c99621,a man in a black jacket is standing on a rocky mountain,0.06484115071397648,12,9.8
+1821238649_2fda79d6d7,a woman in a red dress and a woman in a red dress and a woman in a red dress and a woman in a red dress,0.15048435361489218,27,12.8
+3312779887_7682db7827,a group of people are watching a group of people are watching a group of people are watching them,0.028339296176052856,19,12.2
+1425485485_d7c97a5470,a young boy is sitting on a bench,0.039281465090051315,8,10.0
+1460500597_866fa0c6f3,a man in a blue shirt is sitting on a table in front of a table,0.13380161378318955,16,10.0
+3437654963_c4fdc17e8b,a dog is shaking through the water,0.039281465090051315,7,9.6
+2533424347_cf2f84872b,a race car drives to the start of a race,0.30213753973567675,10,12.4
+326456451_effadbbe49,a black dog runs in the water,0.15447878876032708,7,8.4
+3441701164_6dbbdf1bce,a man in a black outfit is riding a motorcycle,0.06568934426718102,10,10.8
+3455757720_7aeba57056,a dog is running through the water,0.18575057999133598,7,11.6
+387078972_514a38dc33,a white dog is running through the snow,0.4111336169005197,8,10.2
+2379150102_157d718d1d,a dog is running down a wooden bench,0.06985342056580097,8,10.0

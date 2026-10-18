@@ -34,14 +34,25 @@ loss_curve.png
 decoder_comparison.png
 error_analysis.png
 caption_examples.png
-model.png
 
-# Local planning notes, kept off the shared branch
+# model.png is NOT in that list: plot_model draws the architecture from the layer
+# definitions, so the diagram does not depend on a training run. It is Figure 2 in the
+# report and is committed.
+
+# Internal planning notes, kept off the shared branch. CHANGES.md is committed: it is
+# the detailed record of what broke and how it was fixed.
 PLAN.md
-CHANGES.md
 *.gz
 *.gz
 features.pkl.gz
 
 # Personal backup notebook
 image_captioning_backup.ipynb
+
+# Hyperparameter tuning arm checkpoints - about 240 MB in total, and the 512-unit arm
+# alone is 112 MB, over GitHub's 100 MB per-file hard limit. These are intermediate
+# artefacts: every result they hold is recorded in hyperparameter_results.csv.
+tuning_arm_*.keras
+
+# Ad-hoc screenshots
+accurate test of the dogs.png

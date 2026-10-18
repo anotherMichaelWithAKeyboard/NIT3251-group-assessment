@@ -1,0 +1,10 @@
+# Table 2. BLEU Scores for Greedy Decoding and Beam Search
+
+Corpus BLEU over all 810 held out test images.
+
+| Metric | Greedy | Beam search (k = 3) |
+|---|---:|---:|
+| BLEU-1 | 0.4896 | 0.5455 |
+| BLEU-2 | 0.3280 | 0.3724 |
+| BLEU-3 | 0.2120 | 0.2476 |
+| BLEU-4 | 0.1373 | 0.1620 |
