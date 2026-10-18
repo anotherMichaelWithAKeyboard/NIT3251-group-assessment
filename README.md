@@ -126,9 +126,13 @@ fixed:
 | C | 256 | 0.2 |
 
 Each arm trains to early stopping and is then scored with greedy decoding on a fixed
-250 image slice of the test set. The subset keeps each evaluation to around 3 minutes,
-which is enough to rank the arms against each other. The headline BLEU figures in section 1
-are the separate full test set evaluation from the notebook, not these.
+250 image slice of the **validation** set. Validation rather than test, because these
+scores choose a configuration, and selecting on the test set would make the final test
+figures optimistic. The test set is decoded once, in the notebook, after every decision
+about the model has been made, and that is where the headline BLEU figures in section 1
+come from.
+
+`rescore_arms_on_validation.py` re-scores saved arm checkpoints without retraining.
 
 Writes `hyperparameter_results.csv` and `hyperparameter_results.png`. Results are saved
 after every arm, so an interrupted run still leaves usable output for the arms that

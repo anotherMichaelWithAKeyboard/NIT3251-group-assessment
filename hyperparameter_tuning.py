@@ -13,10 +13,11 @@ tokenizer fitted on training captions only, Adam, early stopping on validation l
 patience 3, and a maximum of 20 epochs.
 
 Each arm records its best validation loss, the epoch that produced it, wall-clock training
-time, and a BLEU score measured with greedy decoding on a fixed subset of the test set.
-A subset is used because full greedy+beam decoding over all 810 test images takes about
-42 minutes; the arms only need to be ranked against each other, and the headline BLEU
-figures in the report still come from the full-test-set evaluation in the notebook.
+time, and a BLEU score measured with greedy decoding on a fixed subset of the VALIDATION
+set. Validation, not test: these scores are used to choose a configuration, and selecting
+on the test set would bias it. The test set is decoded once, in the notebook, after every
+decision about the model has been made. A subset is used because decoding is slow on CPU
+and the arms only need to be ranked against each other.
 
 Results are written to hyperparameter_results.csv and hyperparameter_results.png.
 
@@ -44,7 +45,7 @@ from make_tuning_figure import write_figure
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
-# How many held-out images to decode when scoring each arm. 250 is enough to separate
+# How many validation images to decode when scoring each arm. 250 is enough to separate
 # the arms while keeping each evaluation to roughly four minutes on CPU.
 BLEU_SUBSET = 250
 
@@ -227,7 +228,10 @@ def main():
 
     steps = ceil(len(train) / BATCH_SIZE)
     val_steps = ceil(len(val) / BATCH_SIZE)
-    bleu_ids = test[:BLEU_SUBSET]
+
+    # Scored on validation, never test: these scores pick a configuration, and choosing
+    # on the test set would make the final test figures optimistic.
+    bleu_ids = val[:BLEU_SUBSET]
 
     rows = []
 
@@ -260,7 +264,7 @@ def main():
         best_epoch = int(np.argmin(val_losses)) + 1
         best_val_loss = float(min(val_losses))
 
-        print(f"scoring BLEU on {len(bleu_ids)} held-out images...", flush=True)
+        print(f"scoring BLEU on {len(bleu_ids)} validation images...", flush=True)
         bleu_started = time.time()
         scores = score_bleu(model, bleu_ids, mapping, features, tokenizer, max_length)
         bleu_seconds = time.time() - bleu_started
